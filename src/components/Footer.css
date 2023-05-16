@@ -1,0 +1,162 @@
+.footer {
+  background-color: black;
+  padding: 30px 0;
+  text-align: center; /* Center the content horizontally */
+}
+
+.footer h5 {
+  color:whitesmoke;
+  font-size: 18px;
+  margin-bottom: 15px;
+}
+
+.footer p {
+  font-size: 14px;
+  line-height: 22px;
+  color: whitesmoke;
+}
+
+.footer ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer ul li {
+  margin-bottom: 10px;
+}
+
+.footer ul li a {
+  color: whitesmoke;
+  text-decoration: none;
+}
+
+.footer ul li a:hover {
+  color: whitesmoke;
+}
+
+.social-icons {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.social-icons li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.social-icons li:last-child {
+  margin-right: 0;
+}
+
+.social-icons li a {
+  color: whitesmoke;
+  font-size: 18px;
+}
+
+.social-icons li a:hover {
+  color: whitesmoke;
+}
+
+.above-footer {
+  background-color: whitesmoke;
+  padding: 10px 0;
+  text-align: center;
+}
+
+.above-footer p {
+  margin: 0;
+  font-size: 15px;
+  color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.footer {
+    background-color: #212121;
+    color: #ffffff;
+    padding: 50px 0;
+  }
+  
+  .footer h5 {
+    color: #ffffff;
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  .footer ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .footer ul li a {
+    color: #ffffff;
+    font-size: 16px;
+    text-decoration: none;
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .social-icons li {
+    display: inline-block;
+    margin-right: 5px;
+  }
+  
+  .social-icons li a {
+    display: block;
+    color: #ffffff;
+    font-size: 20px;
+    text-decoration: none;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    border-radius: 50%;
+    background-color: #2d2d2d;
+  }
+  
+  .above-footer {
+    background-color: #0a0a0a;
+    color: #ffffff;
+    padding: 10px 0;
+    text-align: center;
+    font-size: 14px;
+  }
+  
+  .above-footer p {
+    margin: 0;
+  }
+  ``
+  
+  
+  .footer-social-links a {
+    color: #ffffff;
+    margin-right: 10px;
+  }
+  
+  .footer-social-links a:hover {
+    color: #00ff7f;
+  }
+  
+  @media (max-width: 767px) {
+    .footer-col {
+      flex-basis: 50%;
+      text-align: center;
+    }
+  }
+  */

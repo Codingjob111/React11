@@ -1,0 +1,40 @@
+.card {
+    position: relative;
+    display: inline-block;
+    margin: 50px;
+  }
+  
+  /* Define the styles for the triangle */
+  .triangle {
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 50px 50px 50px;
+    border-color: transparent transparent #007bff transparent;
+    position: absolute;
+    top: -50px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  
+  /* Define the styles for the card content */
+  .content {
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  }
+  
+  /* Define the styles for the card heading */
+  h2 {
+    font-size: 24px;
+    margin-top: 0;
+  }
+  
+  /* Define the styles for the card text */
+  p {
+    font-size: 18px;
+    line-height: 1.5;
+  }
+  
